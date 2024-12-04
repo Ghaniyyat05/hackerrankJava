@@ -1,4 +1,4 @@
-//If-else statement
+//Hackerrank 3rd question on java - If-else statement
 import java.io.*;
 import java.math.*;
 import java.security.*;
